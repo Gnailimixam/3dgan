@@ -50,7 +50,7 @@ Some sample generated chairs
 
 |            |              |            |          |          |
 |------------|--------------|------------|----------|----------|
-|![](http://homepages.iitb.ac.in/~meetshah1995/files/2_.png) | ![](http://homepages.iitb.ac.in/~meetshah1995/files/4_.png) |  ![](http://homepages.iitb.ac.in/~meetshah1995/files/1_.png) |  ![](http://homepages.iitb.ac.in/~meetshah1995/files/3_.png) |  ![](http://homepages.iitb.ac.in/~meetshah1995/files/5_.png) |
+|![](https://github.com/Gnailimixam/3dgan/blob/master/pix/170710-19_30_45_v3_seed_128_insta.png) | ![](https://github.com/Gnailimixam/3dgan/blob/master/pix/170717-01_59_58_v364_seed_8_insta.png) |  ![](https://github.com/Gnailimixam/3dgan/blob/master/pix/170717-05_09_23_v449_seed_433_insta.png) |  ![](https://github.com/Gnailimixam/3dgan/blob/master/pix/180215-23_17_26_v8_seed_486_insta.png) |  ![](https://github.com/Gnailimixam/3dgan/blob/master/pix/180215-23_17_26_v8_seed_486_insta.png) |
 
 
 ### Source code files
