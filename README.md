@@ -74,5 +74,5 @@ Some sample generated chairs
 
 
 
-Main Code forked from Meetshah
+Main Code forked from [Meet Pragnesh Shah](https://github.com/meetshah1995)
 
