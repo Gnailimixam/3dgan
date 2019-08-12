@@ -46,12 +46,13 @@ To generate chairs:
 python 3dgan_mit_biasfree.py 1 <path_to_trained_model>
 ```
 
-Some sample generated chairs
+Some sample generated chairs rendered in blender:
 
 |            |              |            |          |          |
 |------------|--------------|------------|----------|----------|
 |![](https://github.com/Gnailimixam/3dgan/blob/master/pix/170710-19_30_45_v3_seed_128_insta.png) | ![](https://github.com/Gnailimixam/3dgan/blob/master/pix/170717-01_59_58_v364_seed_8_insta.png) |  ![](https://github.com/Gnailimixam/3dgan/blob/master/pix/170717-05_09_23_v449_seed_433_insta.png) |  ![](https://github.com/Gnailimixam/3dgan/blob/master/pix/170708-20_01_13_v0_seed_86_insta.png) |  ![](https://github.com/Gnailimixam/3dgan/blob/master/pix/170710-19_29_02_v1_seed_5_insta.png) |
 
+More chairs at automated instagram account [3dgan](https://www.instagram.com/3dgan/?hl=en)
 
 ### Source code files
 
